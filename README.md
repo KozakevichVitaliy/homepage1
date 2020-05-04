@@ -1,7 +1,7 @@
 # homepage
-My very own personal website. Basically this is just a résumé.
+My very own personal website. Basically this is just a résumé project from binary-studio-academy.
 
-### Step by step 
+### Definition of goals 
 - [x] Learn how to **create _Projects_** on **GitHub**
 - [x] Learn how to **create/close _Issues_**
 - [x] Overview basic **_GIT_** commands
